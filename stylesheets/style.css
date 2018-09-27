@@ -1,0 +1,35 @@
+body{
+	background: skyblue;
+}
+
+	div{
+		color:black;
+		width: 40%;
+		height: 100px;
+		background color:black;
+		padding: 5px;
+		border: 2px solid black;
+		margin: 25px;
+	}
+
+	#One{
+		#margin: 0 auto;
+
+	}
+
+
+	#Two{
+		display:inline-block;
+	}
+
+	#Three{
+		display:inline-block;
+
+	}
+
+	#Four{
+		display:block;
+	}
+
+	
+

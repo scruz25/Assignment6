@@ -14,7 +14,6 @@ body{
 
 	#One{
 		#margin: 0 auto;
-
 	}
 
 
@@ -24,11 +23,21 @@ body{
 
 	#Three{
 		display:inline-block;
-
 	}
 
 	#Four{
 		display:block;
+	}
+
+	.smallbox{
+		background-color: yellow;
+		position:absolute;
+		width:1%;
+		height:1%;
+		right:100px;
+		left:530px;
+		bottom:243px;
+		margin:0px;
 	}
 
 	
